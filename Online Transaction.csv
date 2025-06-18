@@ -1,0 +1,11 @@
+﻿TransactionID,CustomerID,ProductID,Date,Time,Amount,PaymentMethod,Device,DiscountCode,Source
+TX001,C1001,P101,2025-06-10,12:34,49.99,Credit Card,Mobile,SUMMER10,Email
+TX002,C1002,P102,2025-06-11,15:42,19.95,PayPal,Desktop,,Direct
+TX003,C1003,P103,2025-06-11,8:21,35,Credit Card,Tablet,NEW5,Social
+TX004,C1001,P104,2025-06-12,10:10,15,Credit Card,Mobile,,Email
+TX005,C1004,P105,2025-06-12,21:45,120,Debit Card,Desktop,WELCOME,Organic
+TX006,C1005,P106,2025-06-13,14:50,29.99,Credit Card,Mobile,,Social
+TX007,C1006,P107,2025-06-13,17:30,59.95,PayPal,Laptop,SUMMER10,Ad
+TX008,C1007,P108,2025-06-14,9:20,9.99,Credit Card,Desktop,,Direct
+TX009,C1008,P109,2025-06-15,11:55,74,Debit Card,Mobile,SAVE15,Email
+TX010,C1009,P110,2025-06-15,19:05,23.5,PayPal,Tablet,,Referral
